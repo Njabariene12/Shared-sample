@@ -1,0 +1,16 @@
+#canvas{
+    background-image: url("../images/townhousepic5.jpg");
+}
+#signplate{
+    background-color: rgb(65, 36, 22);
+    opacity: 0.80;
+}
+*{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+#button{
+    background-color: rgb(177, 52, 6);
+}

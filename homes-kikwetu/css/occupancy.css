@@ -1,0 +1,72 @@
+*{
+    color: black;
+}
+#cov{
+    background-image: url("../images/townhousepic5.jpg");
+    background-size: cover;
+    width: 100vw;
+    width: 100%;
+}
+#lefthead{
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.leftside-menu{
+    margin-top: 9px;
+	overflow: auto;
+	z-index: auto;
+    opacity: 0.80;  
+    color: black;
+    position: absolute;
+	height: fit-content;
+    background-color: aliceblue;
+}
+#gome{
+    background-color: aliceblue;
+    opacity: 0.9;
+    margin-top: 20px;
+    position: relative;
+}
+#spaces{
+    color: aliceblue;
+}
+#tableplate{
+    color: antiquewhite;
+}
+#del{
+    background-color: rgb(243, 10, 10);
+    border-radius: 5px;
+    box-shadow: none;
+    border: 0;
+    color: bisque;
+    width: 75px;
+}
+footer{
+    box-sizing: border-box;
+	margin-top: 20px;
+	position: relative;
+    display: block;
+	background-color: rgb(65, 36, 22);
+    opacity: 0.80;
+	z-index: 3;
+	height: 80px;
+    width: 100%;
+    border-radius: 3px;
+    align-items: center;
+    padding: 0px 50px;
+}
+.foot{
+    margin-top: 25px;
+    display: inline  
+}
+footer ul{
+    margin-left: 70vw;
+    display: inline-block;
+    margin-right: 10px;
+    list-style: none;
+}
+footer ul li{
+    display: inline-block;
+    list-style: none;
+}

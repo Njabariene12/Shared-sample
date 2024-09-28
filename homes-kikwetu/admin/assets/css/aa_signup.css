@@ -1,0 +1,14 @@
+.auth-fluid{
+    background-image: url("../images/users/windowroompic6.jpg");
+    background-position: center;
+}
+.title1{
+    font-weight: bolder;
+    font-size: 30px;
+    height: auto;
+    color: rgb(34, 35, 36);
+    text-decoration: underline;
+}
+.auth-fluid-form-box{
+    opacity: 0.9;
+}

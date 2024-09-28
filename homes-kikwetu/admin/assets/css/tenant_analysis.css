@@ -1,0 +1,15 @@
+#end-buttons{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#end-buttons button{
+    margin: 5px;
+}
+
+.images{
+    border-radius: 5px;
+}
+.tasks{
+    border-radius: 5px;
+}

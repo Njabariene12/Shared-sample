@@ -1,0 +1,26 @@
+#signplate{
+    background-image: url("../images/townhousepic5.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#card-header{
+    height: 50px;
+    background-color: rgb(61, 35, 20);
+    opacity: .85;
+    
+}
+#card1{
+    background-color: rgb(126, 65, 27);;
+    opacity: 0.8;
+    border-width: 1.5px;
+}
+
+*{
+    color: white;
+}
+#footer{
+    color: white;
+}
+#button{
+    background-color: rgb(177, 52, 6);
+}

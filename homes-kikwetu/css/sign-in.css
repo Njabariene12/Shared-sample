@@ -1,0 +1,45 @@
+html,
+body {
+  background-image: linear-gradient(rgba(90, 86, 86, 0.6), rgba(94, 91, 91, 0.6)), url(../images/coastline-home-art-design-templates-5c093c7b39c639b47ee1fd5f59f9426f_screen.jpg);
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 550px;
+  padding: 1rem;
+  opacity: 50%;
+}
+h1{
+  opacity: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+#form-control[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  opacity: 20%;
+}
+
+#form-control[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.button{
+  margin-top: 30px;
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  background-color: blueviolet;
+}
+.button:hover{
+  background-color: cornflowerblue;
+  transition: 1s ease-in-out;
+}

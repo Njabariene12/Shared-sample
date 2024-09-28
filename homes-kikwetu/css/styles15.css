@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/street\ 3.webp);
+}
+H2{
+    color: rgb(231, 220, 220);
+    text-align: center;
+}
+header{
+    margin-bottom: 30px;
+    padding: 45px;
+
+}
+.kalu{
+    opacity: 70%;
+    background-color: rgb(75, 63, 63);
+}
+#btnn{
+    background-color: blueviolet;
+}
+#buk{
+    height: 50px;
+}
+#tabtop{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}

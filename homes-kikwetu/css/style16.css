@@ -1,0 +1,22 @@
+body{
+    background-image: url(../images/street1.jpeg);
+}
+H2{
+    color: rgb(231, 220, 220);
+    text-align: center;
+}
+header{
+    margin-bottom: 30px;
+    padding: 45px;
+
+}
+tr{
+    background-color: black;
+}
+.kalu{
+    opacity: 70%;
+    background-color: rgb(75, 63, 63);
+}
+#btnn{
+    background-color: blueviolet;
+}
